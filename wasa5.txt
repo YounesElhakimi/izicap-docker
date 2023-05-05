@@ -1,0 +1,5 @@
+insert into "shopusertransaction" (shop_id,unique_id,card_token,customer_id,user_id,purchase_date,commercial_date,currency,amount,transaction,year_rank,member,transaction_type,new_customer,old_customer,acceptance)
+values (101,'string','string','string',0,'2023-05-05T09:58:42.087Z','2023-05-05T09:58:42.087Z','string',0,0,0,true,'string',0,0,'string');
+                          
+                          
+     
